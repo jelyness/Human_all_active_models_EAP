@@ -21,6 +21,11 @@
 ### Run simulations
 
    * Install bmtk and create an enviroment(for example, we named it "bmtk_ateam"). Please follow the instructions in this [link](https://github.com/AllenInstitute/bmtk).
+    ```sh
+    $ git clone https://github.com/AllenInstitute/bmtk.git
+    $ cd bmtk
+    $ python setup.py install
+     ```
 
    * Compile the modfiles. After installing bmtk, run 
       ```sh
